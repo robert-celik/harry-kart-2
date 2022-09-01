@@ -10,7 +10,7 @@
         <kotlin.version>1.7.20-Beta</kotlin.version>
     </properties>
     <groupId>se.atg.service.harrykart</groupId>
-    <artifactId>harry-kart</artifactId>
+    <artifactId>harry-kart-2</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencyManagement>
